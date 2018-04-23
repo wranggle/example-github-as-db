@@ -1,4 +1,4 @@
 Label,URL,Wait,Pluck
-Wranggle on Reddit,http://google.com/search?q=site:reddit.com %22wranggle automation%22,,#search h3:visible:first
+Wranggle on Reddit,http://google.com/search?q=site:reddit.com %2B%22wranggle%22,,#search h3:visible:first
 ThinkThin addiction,https://www.amazon.com/thinkThin-Protein-Creamy-Peanut-Butter/dp/B000CRHQN0,#add-to-cart-button:visible,#price .a-color-price:visible:first
 Zapier blog,https://zapier.com/blog/,.container h2:visible,h2.title:visible:first
